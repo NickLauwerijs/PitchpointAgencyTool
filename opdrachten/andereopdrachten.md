@@ -74,7 +74,7 @@ TweenMax.fromTo([".map__pin",".map__pin"] ,0.7 , {top:"40%", opacity:"0", visibi
 Dit stukje code zal het object aanspreken met het ID map__pin , en de properties :top:40% , opacity:0 en visibility:hidden veranderen naar top:54% , opacity:1 en visibility:visible over de tijd van 0.7 seconden.
 Zoals je ziet is hier helemaal niet veel code voor nodig , waardoor ik tweenmax.js heel aangenaam vind om mee te werken.
 
-Al de animaties die gebeuren op de website zijn getriggerd op een bepaalde scroll hoogte die word gemeten vanaf de bovenzijde van de pagina maar doordat deze website is toegevoegd aan hun huidige website worden de animaties op de verkeerde moment getriggerd. Omdat ze een navigatie balk hebben toegevoegd , klopt de juiste scrollhoogte niet meer om de animaties te triggeren met als gevolg dat deze allemaal te vroeg getriggerd worden.
+Al de animaties die gebeuren op de website zijn getriggerd op een bepaalde scroll hoogte die word gemeten vanaf de bovenzijde van de pagina maar doordat deze website is toegevoegd aan hun huidige website worden de animaties op de verkeerde moment getriggerd. Omdat ze een navigatie balk hebben toegevoegd klopt de juiste scrollhoogte niet meer om de animaties te triggeren met als gevolg dat deze allemaal te vroeg getriggerd worden.
 
 ### Gulp
 Werd ook al besproken in gebruikte technologieën maar in dit project hebben we gulp iets anders gebruikt omdat we in het pitchpoint project gebruik hebben gemaakt van laravel elixir en hier niet.

@@ -1,6 +1,6 @@
 # Besluit
 
-Zoals je bij de resultaten kunt zien zijn alle doelstellingen die in het begin van deze scriptie zijn beschreven afgerond. De webapplicatie kan gebruikt worden door communicatiebureau's om hun data in te geven en hebben ook de mogelijkheid om opnieuw in te loggen om hun data aan te passen.
+Zoals bij de resultaten is te zien zijn alle doelstellingen die in het begin van deze scriptie zijn beschreven afgerond. De webapplicatie kan gebruikt worden door communicatiebureau's om hun data in te geven en hebben ook de mogelijkheid om opnieuw in te loggen om hun data aan te passen.
 
 Pitchpoint heeft een admin gedeelte die kan gebruikt worden om een overzicht te krijgen van alle bureau's en heeft ook de mogelijkheid tot het aanpassen van alle data van elk bureau. Ook kan er gesearched/gefilterd worden zodat makkelijk specifieke bureau's gevonden kunnen worden.
  

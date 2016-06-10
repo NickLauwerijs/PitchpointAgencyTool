@@ -4,7 +4,7 @@
 
 Prophets is een digitaal marketingbureau gesitueerd in Antwerpen. Het bedrijf staat in voor de groei en populariteit van andere bedrijven en probeert dit te verbeteren door marketing strategieën te ontwikkelen. Zo ontwikkeld het bedrijf zelf websites, applicaties, reclame-filmpjes,... om deze strategieën te ondersteunen. Prophets heeft heel wat grote klanten zoals: Carrefour, Orange, De Persgroep, Crelan, ...
 
-Mijn opdracht was om te werken aan projecten voor klanten van Prophets. Eerst ben ik enkele weken bezig geweest om een website te maken voor het [Nucleaire Forum](https://www.nucleairforum.be/energie/fukushima). De rest van de stage heb ik gewerkt aan een web applicatie voor Pitchpoint. Aangezien ik het meeste van de tijd aan het Pitchpoint project heb gewerkt heb ik de scriptie hierover geschreven.
+Mijn opdracht was om te werken aan projecten voor klanten van Prophets. Het eerste project was een website maken voor het [Nucleaire Forum](https://www.nucleairforum.be/energie/fukushima). De rest van de stage heb ik gewerkt aan een web applicatie voor Pitchpoint. Aangezien de meeste tijd aan het Pitchpoint project is gewerkt is de scriptie opgebouwd rond dit project.
 
 
 ## Probleem
@@ -16,5 +16,5 @@ Een web applicatie ontwikkelen waarop communicatiebureau's zich kunnen registrer
 
 Dit alles moet worden weergegeven in een admin sectie zodat Pitchpoint een overzicht heeft van elk communicatiebureau. In deze admin sectie moet er gefilterd/gesearched kunnen worden op bepaalde fields. De bureau's in het admin menu moeten in detail kunnen bekeken worden en zijn volledig aanpasbaar door Pitchpoint zelf. Ook moet pitchpoint een overzicht van een bureau kunnen afdrukken waarbij ze zelf kunnen kiezen wat er mee afgedrukt word en wat niet.
 
-Om deze applicatie te ontwikkelen hebben we gebruik gemaakt van een PHP framework genaamd Laravel in combinatie met Bootstrap, Sass en Jquery voor de Front-end.
+Om deze applicatie te ontwikkelen is er gebruik gemaakt van een PHP framework genaamd Laravel in combinatie met Bootstrap, Sass en Jquery voor de Front-end.
 
