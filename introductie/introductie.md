@@ -1,22 +1,20 @@
 # introductie
-
+<br>
 ## Bedrijf
 
-Prophets is een digitaal marketingbureau gesitueerd in Antwerpen. Mijn opdracht was om te werken aan projecten voor klanten van Prophets. Eerst ben ik enkele weken bezig geweest om een website te maken voor het [Nucleaire Forum](https://www.nucleairforum.be/energie/fukushima). De rest van de stage heb ik gewerkt aan een web applicatie voor Pitchpoint. Aangezien ik het meeste van de tijd aan het Pitchpoint project heb gewerkt heb ik de scriptie hierover geschreven.
+Prophets is een digitaal marketingbureau gesitueerd in Antwerpen. Het bedrijf staat in voor de groei en populariteit van andere bedrijven en probeert dit te verbeteren door marketing strategieën te ontwikkelen. Zo ontwikkeld het bedrijf zelf websites, applicaties, reclame-filmpjes,... om deze strategieën te ondersteunen. Prophets heeft heel wat grote klanten zoals: Carrefour, Orange, De Persgroep, Crelan, ...
 
-<br><br><br><br><br>
-<br><br><br><br><br>
+Mijn opdracht was om te werken aan projecten voor klanten van Prophets. Eerst ben ik enkele weken bezig geweest om een website te maken voor het [Nucleaire Forum](https://www.nucleairforum.be/energie/fukushima). De rest van de stage heb ik gewerkt aan een web applicatie voor Pitchpoint. Aangezien ik het meeste van de tijd aan het Pitchpoint project heb gewerkt heb ik de scriptie hierover geschreven.
+
 
 ## Probleem
-Het is moeilijk om een overzicht te hebben van mogelijke kandidaat marketingbureau's om projecten aan te geven. Pitchpoint probeert een zo goed mogelijke match te vinden tussen de opdrachtgever en het communicatiebureau. Hierbij is veel info nodig om de beste kandidaat te vinden.
+Pitchpoint's taak is om adverteerders te helpen om een communicatiebureau te vinden dat perfect past bij de behoeftes van de adverteerder. Ze gebruiken hun ervaring met reclamebureau's om zo een match te vinden, dit is niet altijd zo evident omdat er heel wat reclamebureau's bestaan. Het zou dus handig zijn als ze een overzicht zouden hebben van zo veel mogelijk communicatiebureau's zodat ze hun keuze hier ook wat door kunnen laten beïnvloeden.
 
-<br><br><br><br><br>
-<br><br><br><br><br>
 
 ## Doelstelling
-Een web applicatie ontwikkelen waarop communicatiebureau's zich kunnen registreren. Er moet heel wat data worden ingegeven zoals: Belangrijke werknemers , expertises , klanten , filosofie,... dit moet achteraf ook worden kunnen aangepast, omdat de info kan veranderen met de tijd. 
+Een web applicatie ontwikkelen waarop communicatiebureau's zich kunnen registreren. Elk communicatiebureau moet een login en wachtwoord ingeven zodat ze al hun eigen data kunnen zien en aanpassen.
 
-Dit alles moet worden weergegeven in een admin sectie zodat Pitchpoint een overzicht heeft van elk communicatiebedrijf. Deze agencies kunnen in detail bekeken en volledig aangepast worden door Pitchpoint zelf. Per Agency heeft de Pitchpoint ook de mogelijkheid om commentaar en sterke punten toe te voegen.
+Dit alles moet worden weergegeven in een admin sectie zodat Pitchpoint een overzicht heeft van elk communicatiebureau. In deze admin sectie moet er gefilterd/gesearched kunnen worden op bepaalde fields. De bureau's in het admin menu moeten in detail kunnen bekeken worden en zijn volledig aanpasbaar door Pitchpoint zelf. Ook moet pitchpoint een overzicht van een bureau kunnen afdrukken waarbij ze zelf kunnen kiezen wat er mee afgedrukt word en wat niet.
 
-Om deze applicatie te ontwikkelen hebben we gebruik gemaakt van een PHP framework genaam Laravel in combinatie met enkele andere technologiën zoals Bootstrap, Sass, Jquery, Gulp.
+Om deze applicatie te ontwikkelen hebben we gebruik gemaakt van een PHP framework genaamd Laravel in combinatie met Bootstrap, Sass en Jquery voor de Front-end.
 
